@@ -12,5 +12,10 @@ Usage:
 python keyboard_scanner.py > event.tsv
 ```
 
-Note: this script requires the `pygame` module. 
+The first column is the time in ms since the start, the second column is the time difference between between the current event and the previous one.
+
+Installation:
+
+ * This script requires the `pygame` module (`pip install pygame`).
+ 
 
