@@ -8,11 +8,12 @@ simple HID (keyoard and mouse) event monitor
 
 Usage:
 
-Go version:
+Go version
 ```
 keyboard_scanner > events.tsv
 ```
 
+Python version
 ```
 python keyboard_scanner.py > events.tsv
 ```
